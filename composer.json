@@ -1,12 +1,12 @@
 {
-    "name": "hankaige/oss-utils",
+    "name": "kaigejinjin/oss-utils",
     "description": "Supper quick use Aliyun OSS or Tencent COS or Qiniu Koa to get、put、delete Object.",
-    "homepage": "https://github.com/hankaige/oss-utils",
+    "homepage": "https://github.com/kaigejinjin/oss-utils",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "hankaige",
+            "name": "kaigejinjin",
             "email": "kaigejinjin@163.com"
         }
     ],
