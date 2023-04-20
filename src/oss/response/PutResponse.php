@@ -38,7 +38,7 @@ class PutResponse
     /**
      * @return mixed
      */
-    public function getSourceData(): array
+    public function getSourceData()
     {
         return $this->sourceData;
     }
