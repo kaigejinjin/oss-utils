@@ -11,7 +11,7 @@ Supper quick use Aliyun OSS or Tencent COS or Qiniu Koa to get、put、delete Ob
 ## 安装（Installation）
 
 ```php
-composer require china-lishuo/oss-utils
+composer require kaigejinjin/oss-utils
 ```
 
 ## 案列（example）
